@@ -326,7 +326,7 @@ input {
   padding: 10px;
   margin-bottom: 16px;
   border: 1px solid #ccc;
-  border-radius: 0px 50px 50px 0px;
+  border-radius: 0px 0px 0px 0px;
   font-size: 26px;
 }
 button {
