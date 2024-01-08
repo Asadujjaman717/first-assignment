@@ -160,11 +160,10 @@
   font-weight: 400;
 }
 .img {
-  height: 463px;
-  width: 463px;
+  height: 360px;
+  width: 370px;
   border-radius: 50%;
   border: 15px solid #f00;
-  flex-shrink: 0;
   align-items: center;
 }
 .two-zero-two-four {
